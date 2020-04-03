@@ -2,8 +2,8 @@
 <!-- TOC -->
 
 - [1.Introduction](#1Introduction)
-- [2.PHM Data Challenge 2019](#2Fatigue Crack Growth in Aluminum Lap Joint - PHM Data Challenge 2019)
-- [3.PHM Data Challenge 2009](#3Gearbox Fault Detection Dataset, PHM Data Challenge 2009)
+- [2.PHM Data Challenge 2019](#2fatigue-crack-growth-in-aluminum-lap-joint---phm-data-challenge-2019)
+- [3.PHM Data Challenge 2009](#3gearbox-fault-detection-dataset-phm-data-challenge-2009)
 
 <!-- /TOC -->
 
