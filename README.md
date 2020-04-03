@@ -39,5 +39,5 @@ This PHM Data Challenge is focused on fault detection and magnitude estimation f
 The Data Challenge was part of the 2009 Conference of the PHM Society
 
 
-[:top:](#1Introduction)
+[:top:回到顶部](#1Introduction)
 
