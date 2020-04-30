@@ -4,7 +4,7 @@
 - [1.Introduction](#1Introduction)
 - [2.PHM Data Challenge 2019](#2fatigue-crack-growth-in-aluminum-lap-joint---phm-data-challenge-2019)
 - [3.PHM Data Challenge 2009](#3gearbox-fault-detection-dataset-phm-data-challenge-2009)
-- [4.Bosch Production Line Performance](#4bosch-production-line-performance)
+- [4.Bosch Production Line Performance](#4-bosch-production-line-performance)
 
 <!-- /TOC -->
 
