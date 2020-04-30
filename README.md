@@ -4,7 +4,7 @@
 - [1.Introduction](#1Introduction)
 - [2.PHM Data Challenge 2019](#2fatigue-crack-growth-in-aluminum-lap-joint---phm-data-challenge-2019)
 - [3.PHM Data Challenge 2009](#3gearbox-fault-detection-dataset-phm-data-challenge-2009)
-- [4.Bosch Production Line Performance](#4-bosch-production-line-performance)
+- [4.Bosch Production Line Performance 2016](#4-bosch-production-line-performance)
 
 <!-- /TOC -->
 
@@ -45,6 +45,20 @@ The Data Challenge was part of the 2009 Conference of the PHM Society
 Because Bosch records data at every step along its assembly lines, they have the ability to apply advanced analytics to improve these manufacturing processes. However, the intricacies of the data and complexities of the production line pose problems for current methods.
 
 In this competition, Bosch is challenging Kagglers to predict internal failures using thousands of measurements and tests made for each component along the assembly line. This would enable Bosch to bring quality products at lower costs to the end user.
+
+## Hard Drive Reliability Sample
+* [Resorce link](https://data.world/scuttlemonkey/hard-drive-reliability-sample)
+
+Each day in the Backblaze data center, they take a snapshot of each operational hard drive. This snapshot includes basic drive information along with the S.M.A.R.T. statistics reported by that drive. The daily snapshot of one drive is one record or row of data. All of the drive snapshots for a given day are collected into a file consisting of a row for each active hard drive.
+
+The first row of the each file contains the column names, the remaining rows are the actual data. The columns are as follows:
+
+- Date – The date of the file in yyyy-mm-dd format.
+- Serial Number – The manufacturer-assigned serial number of the drive.
+- Model – The manufacturer-assigned model number of the drive.
+- Capacity – The drive capacity in bytes.
+- Failure – Contains a “0” if the drive is OK. Contains a “1” if this is the last day the drive was operational before failing.
+- 2013-2014 SMART Stats – 80 columns of data, that are the Raw and Normalized values for 40 different SMART stats as
 
 
 [:top:Back To Top](#1Introduction)
