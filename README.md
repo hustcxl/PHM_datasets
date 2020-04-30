@@ -4,6 +4,7 @@
 - [1.Introduction](#1Introduction)
 - [2.PHM Data Challenge 2019](#2fatigue-crack-growth-in-aluminum-lap-joint---phm-data-challenge-2019)
 - [3.PHM Data Challenge 2009](#3gearbox-fault-detection-dataset-phm-data-challenge-2009)
+- [4.Bosch Production Line Performance](#4bosch-production-line-performance)
 
 <!-- /TOC -->
 
@@ -37,6 +38,13 @@ The dataset was used for the PHM Data Challenge for the 2019 Conference on Progn
 This PHM Data Challenge is focused on fault detection and magnitude estimation for a generic gearbox using accelerometer data and information about bearing geometry. Scoring is based on the ability to correctly identify type, location, and magnitude and damage in a gear system.
 
 The Data Challenge was part of the 2009 Conference of the PHM Society
+
+## 4. Bosch Production Line Performance
+* [Resorce link](https://www.kaggle.com/c/bosch-production-line-performance/overview/ieee-bigdata-2016)
+
+Because Bosch records data at every step along its assembly lines, they have the ability to apply advanced analytics to improve these manufacturing processes. However, the intricacies of the data and complexities of the production line pose problems for current methods.
+
+In this competition, Bosch is challenging Kagglers to predict internal failures using thousands of measurements and tests made for each component along the assembly line. This would enable Bosch to bring quality products at lower costs to the end user.
 
 
 [:top:回到顶部](#1Introduction)
